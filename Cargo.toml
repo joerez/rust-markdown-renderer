@@ -1,8 +1,12 @@
 [package]
-name = "mdrend"
+name = "markdown-renderer-that-you-probably-shouldnt-use"
 version = "0.1.0"
 authors = ["Joerez <rezenbiz@gmail.com>"]
 edition = "2018"
+license = "MIT"
+keywords = [ "parse", "markdown" ]
+repository = "https://github.com/joerez/rust-markdown-renderer"
+description = "Read a markdown file and return a parsed html file"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
