@@ -2,5 +2,5 @@
 Converts markdown files to HTML.
 
 ```
-cargo run -- <path/to-file.md>
+cargo run -- <path/to-markdown-file.md> -w -css link-to-css.css
 ```
